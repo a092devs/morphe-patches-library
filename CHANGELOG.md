@@ -1,3 +1,24 @@
+## [2.0.2-dev.1](https://github.com/MorpheApp/morphe-patches-library/compare/v2.0.1...v2.0.2-dev.1) (2026-10-24)
+
+
+### Bug Fixes
+
+* **BytecodeUtils:** Literal override also overrides a read of a long written over the literal ([7f4362a](https://github.com/MorpheApp/morphe-patches-library/commit/7f4362a0ee7976e85ff7aeba691ff6ef749ea939))
+
+## [2.0.1](https://github.com/MorpheApp/morphe-patches-library/compare/v2.0.0...v2.0.1) (2026-10-24)
+
+
+### Bug Fixes
+
+* Remove code now provided by patcher 2.0 ([a7f516d](https://github.com/MorpheApp/morphe-patches-library/commit/a7f516d5e610f14c0affa770238e841386b62e68))
+
+## [2.0.1-dev.1](https://github.com/MorpheApp/morphe-patches-library/compare/v2.0.0...v2.0.1-dev.1) (2026-10-22)
+
+
+### Bug Fixes
+
+* Remove code now provided by patcher 2.0 ([a7f516d](https://github.com/MorpheApp/morphe-patches-library/commit/a7f516d5e610f14c0affa770238e841386b62e68))
+
 # [2.0.0](https://github.com/MorpheApp/morphe-patches-library/compare/v1.8.0...v2.0.0) (2026-10-22)
 
 
