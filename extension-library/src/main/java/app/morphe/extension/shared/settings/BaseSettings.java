@@ -19,7 +19,6 @@ public class BaseSettings {
      * Use {@link Logger#isDebugEnabled()} or {@link Logger#isVerboseEnabled()} to check if logging is enabled.
      */
     public static final EnumSetting<DebugLevel> DEBUG_LEVEL = new EnumSetting<>("morphe_debug_level", DebugLevel.DISABLED);
-    public static final BooleanSetting DEBUG = new BooleanSetting("morphe_debug", BuildConfig.DEBUG);
     public static final BooleanSetting DEBUG_STACKTRACE = new BooleanSetting("morphe_debug_stacktrace", FALSE, parentNot(DEBUG_LEVEL, DebugLevel.DISABLED));
     public static final BooleanSetting DEBUG_TOAST_ON_ERROR = new BooleanSetting("morphe_debug_toast_on_error", TRUE, "morphe_debug_toast_on_error_user_dialog_message");
 
