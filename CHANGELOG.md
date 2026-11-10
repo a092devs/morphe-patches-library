@@ -1,3 +1,24 @@
+# [2.2.0-dev.3](https://github.com/MorpheApp/morphe-patches-library/compare/v2.2.0-dev.2...v2.2.0-dev.3) (2026-11-09)
+
+
+### Bug Fixes
+
+* **Logger:** Add exception if debug ([910fadf](https://github.com/MorpheApp/morphe-patches-library/commit/910fadf328f4345b9c87a486f4504241cef70d0c))
+
+# [2.2.0-dev.2](https://github.com/MorpheApp/morphe-patches-library/compare/v2.2.0-dev.1...v2.2.0-dev.2) (2026-11-09)
+
+
+### Features
+
+* **Logger:** Add verbose logging, replace the debug setting with a debug level, and allow log messages to return null to log nothing ([bdf32ee](https://github.com/MorpheApp/morphe-patches-library/commit/bdf32ee4c81d1bb458022b2675dc38b4e9710d0f))
+
+# [2.2.0-dev.1](https://github.com/MorpheApp/morphe-patches-library/compare/v2.1.1...v2.2.0-dev.1) (2026-11-08)
+
+
+### Features
+
+* **Logger:** Add times, threads and exception origins to the logs, and a timeline of the app state that is exported with the logs ([255c70f](https://github.com/MorpheApp/morphe-patches-library/commit/255c70f71681a53dd00d29520e464e92d45fc15e))
+
 ## [2.1.1](https://github.com/MorpheApp/morphe-patches-library/compare/v2.1.0...v2.1.1) (2026-11-06)
 
 
