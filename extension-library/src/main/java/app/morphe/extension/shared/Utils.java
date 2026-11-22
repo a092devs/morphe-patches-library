@@ -58,7 +58,7 @@ import app.morphe.extension.shared.settings.BooleanSetting;
 import app.morphe.extension.shared.settings.StringSetting;
 import app.morphe.extension.shared.ui.Dim;
 
-import io.github.nexfusion.BuildConfig;
+import io.github.a092devs.nexfusion.BuildConfig;
 
 @SuppressWarnings({"NewApi", "unused"})
 public class Utils {

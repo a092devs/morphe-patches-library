@@ -6,7 +6,7 @@ import static app.morphe.extension.shared.settings.Setting.parentNot;
 
 import app.morphe.extension.shared.Logger;
 
-import io.github.nexfusion.BuildConfig;
+import io.github.a092devs.nexfusion.BuildConfig;
 
 /**
  * Settings shared across multiple apps.
