@@ -368,7 +368,7 @@ public class ResourceUtils {
     }
 
     private static void handleException(ResourceType type, String name) {
-        Logger.printException(() -> "R." + type.type + "." + name + " is null");
+        Logger.printDebug(() -> "R." + type.type + "." + name + " is null");
     }
 
     private static <T> T checkResourceNotNull(T resource, ResourceType type, String name) {
